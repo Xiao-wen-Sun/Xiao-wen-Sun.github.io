@@ -26,12 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Xiaowen Sun"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate"
   location         : "Hamburg, Germany"
   employer         : "University of Hamburg"
   uri              : https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/sun.html
-  email1            : "xiaowen.sun@uni-hamburg.de" 
-  email2            : "wenny.xiaowensun@gmail.com" 
+  email            : "xiaowen.sun@uni-hamburg.de" 
+  #email2            : "wenny.xiaowensun@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -58,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
