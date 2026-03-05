@@ -25,12 +25,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xiaowen Sun"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Hamburg, Germany"
   employer         : "University of Hamburg"
-  uri              : # URL
-  email            : "wenny.xiaowensun@gmail.com" 
+  uri              : https://www.inf.uni-hamburg.de/en/inst/ab/wtm/people/sun.html
+  email1            : "xiaowen.sun@uni-hamburg.de" 
+  email2            : "wenny.xiaowensun@gmail.com" 
 
   # Academic websites
   academia         : # URL
